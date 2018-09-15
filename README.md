@@ -11,3 +11,6 @@ Since this environment is more ephemeral it makes sense to manage it in a way th
 
 Some scripts are providing a way to save and load the environment and to install the tools you want.
 
+## See also
+- [Managing WSL](https://github.com/DDoSolitary/LxRunOffline)
+- [Advanced bash dotfiles](https://github.com/Plazmaz/wsl-dotfiles)
